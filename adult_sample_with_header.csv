@@ -1,3 +1,4 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,native-country,class
 32, Federal-gov, 249409, HS-grad, 9, Never-married, Other-service, Own-child, Black, Male, 0, 0, 40, United-States, <=50K
 76, Private, 124191, Masters, 14, Married-civ-spouse, Exec-managerial, Husband, White, Male, 0, 0, 40, United-States, >50K
 44, Private, 198282, Bachelors, 13, Married-civ-spouse, Exec-managerial, Husband, White, Male, 15024, 0, 60, United-States, >50K
@@ -18,4 +19,3 @@
 56, Self-emp-inc, 303090, Some-college, 10, Married-civ-spouse, Sales, Husband, White, Male, 0, 0, 50, United-States, <=50K
 49, Local-gov, 197371, Assoc-voc, 11, Married-civ-spouse, Craft-repair, Husband, Black, Male, 0, 0, 40, United-States, >50K
 55, Private, 247552, Some-college, 10, Married-civ-spouse, Sales, Husband, White, Male, 0, 0, 56, United-States, <=50K
-age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,native-country,class
